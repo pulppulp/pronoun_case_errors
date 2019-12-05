@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
+      Media="020004" Mediatypes="audio"
+      PID="11312/c-00017351-1"
+      Version="2.14.0"
+      Lang="eng"
+      Corpus="Sachs"
+      Date="1970-06-12"
+      >
+  <Participants>
+    <participant
+      id="CHI"
+    name="Naomi"
+      role="Target_Child"
+      language="eng"
+      age="P2Y00M04D"
+      sex="female"
+
+    />
+    <participant
+      id="MOT"
+      role="Mother"
+      language="eng"
+      sex="female"
+
+    />
+    <participant
+      id="FAT"
+      role="Father"
+      language="eng"
+      sex="male"
+
+    />
+  </Participants>
+  <comment type="Date">12-JUN-1970</comment>
+  <comment type="Tape Location">330</comment>
+  <u who="MOT" uID="u0">
+    <w untranscribed="unintelligible">xxx</w>
+    <w>microphone<mor type="mor"><mw><mpfx>micro</mpfx><pos><c>n</c></pos><stem>phone</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media
+      start="20.000"
+      end="24.385"
+      unit="s"
+    />
+  </u>
+  <u who="MOT" uID="u1">
+    <w>now<mor type="mor"><mw><pos><c>adv</c></pos><stem>now</stem></mw><gra type="gra" index="1" head="3" relation="JCT"/></mor></w>
+    <w>Georgie<mor type="mor"><mw><pos><c>n</c><s>prop</s></pos><stem>Georgie</stem></mw><gra type="gra" index="2" head="3" relation="SUBJ"/></mor></w>
+    <w>says<mor type="mor"><mw><pos><c>v</c></pos><stem>say</stem><mk type="sfx">3S</mk></mw><gra type="gra" index="3" head="0" relation="ROOT"/></mor></w>
+    <w>it<mor type="mor"><mw><pos><c>pro</c><s>per</s></pos><stem>it</stem></mw><gra type="gra" index="4" head="3" relation="OBJ"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="5" head="3" relation="PUNCT"/></mor></t>
+    <media
+      start="35.452"
+      end="36.868"
+      unit="s"
+    />
+  </u>
+  <u who="MOT" uID="u2">
+    <w>listen<mor type="mor"><mw><pos><c>v</c></pos><stem>listen</stem></mw><gra type="gra" index="1" head="0" relation="ROOT"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media
+      start="36.868"
+      end="37.302"
+      unit="s"
+    />
+  </u>
+  <u who="MOT" uID="u3">
+    <w>listen<mor type="mor"><mw><pos><c>v</c></pos><stem>listen</stem></mw><gra type="gra" index="1" head="0" relation="ROOT"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media
+      start="37.302"
+      end="37.485"
+      unit="s"
+    />
+  </u>
+  <u who="MOT" uID="u4">
+    <linker type="quoted utterance next"/>
+    <w>microphone<mor type="mor"><mw><mpfx>micro</mpfx><pos><c>n</c></pos><stem>phone</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media
+      start="37.485"
+      end="38.737"
+      unit="s"
+    />
+    <a type="paralinguistics">speaks in high-pitched Georgie character voice</a>
+  </u>
+  <u who="CHI" uID="u5">
+    <w>ah<mor type="mor"><mw><pos><c>co</c></pos><stem>ah</stem></mw><gra type="gra" index="1" head="2" relation="COM"/></mor></w>
+    <pause symbolic-length="simple"/>
+    <w>microphone<mor type="mor"><mw><mpfx>micro</mpfx><pos><c>n</c></pos><stem>phone</stem></mw><gra type="gra" index="2" head="0" relation="INCROOT"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="3" head="2" relation="PUNCT"/></mor></t>
+    <media
+      start="38.737"
+      end="42.706"
+      unit="s"
+    />
+    <a type="speech act">$EIMIT</a>
+  </u>
+  <u who="MOT" uID="u6">
+    <linker type="quoted utterance next"/>
+    <w>microphone<mor type="mor"><mw><mpfx>micro</mpfx><pos><c>n</c></pos><stem>phone</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media
+      start="42.706"
+      end="45.158"
+      unit="s"
+    />
+    <a type="paralinguistics">speaks in high-pitched Georgie character voice</a>
+  </u>
+  <u who="CHI" uID="u7">
+    <w>mikephone<replacement><w>microphone<mor type="mor"><mw><mpfx>micro</mpfx><pos><c>n</c></pos><stem>phone</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w></replacement></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media
+      start="45.158"
+      end="46.191"
+      unit="s"
+    />
+    <a type="speech act">$EIMIT</a>
+  </u>
+  <u who="MOT" uID="u8">
+    <linker type="quoted utterance next"/>
+    <w>microphone<mor type="mor"><mw><mpfx>micro</mpfx><pos><c>n</c></pos><stem>phone</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media
+      start="46.191"
+      end="48.010"
+      unit="s"
+    />
+    <a type="paralinguistics">speaks in high-pitched Georgie character voice</a>
+  </u>
+  <u who="CHI" uID="u9">
+    <w>microphone<mor type="mor"><mw><mpfx>micro</mpfx><pos><c>n</c></pos><stem>phone</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media
+      start="48.010"
+      end="48.793"
+      unit="s"
+    />
+    <a type="speech act">$EIMIT</a>
+  </u>
+  <u who="MOT" uID="u10">
+    <w untranscribed="unintelligible">xxx</w>
+    <w>say<mor type="mor"><mw><pos><c>v</c></pos><stem>say</stem></mw><gra type="gra" index="1" head="0" relation="ROOT"/></mor></w>
+    <w>something<mor type="mor"><mw><pos><c>pro</c><s>indef</s></pos><stem>something</stem></mw><gra type="gra" index="2" head="1" relation="OBJ"/></mor></w>
+    <w>else<mor type="mor"><mw><pos><c>post</c></pos><stem>else</stem></mw><gra type="gra" index="3" head="2" relation="PQ"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="4" head="1" relation="PUNCT"/></mor></t>
+    <media
+      start="48.793"
+      end="50.295"
+      unit="s"
+    />
+  </u>
+  <u who="CHI" uID="u11">
+    <w>mikephone<replacement><w>microphone<mor type="mor"><mw><mpfx>micro</mpfx><pos><c>n</c></pos><stem>phone</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w></replacement></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media
+      start="50.295"
+      end="51.345"
+      unit="s"
+    />
+  </u>
+  <u who="MOT" uID="u12">
+    <w>no<mor type="mor"><mw><pos><c>co</c></pos><stem>no</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media
+      start="51.345"
+      end="51.928"
+      unit="s"
+    />
+  </u>
+  <u who="MOT" uID="u13">
+    <w>say<mor type="mor"><mw><pos><c>v</c></pos><stem>say</stem></mw><gra type="gra" index="1" head="0" relation="ROOT"/></mor></w>
+    <w>a<mor type="mor"><mw><pos><c>det</c><s>art</s></pos><stem>a</stem></mw><gra type="gra" index="2" head="5" relation="DET"/></mor></w>
+    <w>different<mor type="mor"><mw><pos><c>adj</c></pos><stem>different</stem></mw><gra type="gra" index="3" head="4" relation="MOD"/></mor></w>
+    <w>word<mor type="mor"><mw><pos><c>n</c></pos><stem>word</stem></mw><gra type="gra" index="4" head="5" relation="MOD"/></mor></w>
+    <pause symbolic-length="simple"/>
+    <w>honey<mor type="mor"><mw><pos><c>n</c></pos><stem>honey</stem></mw><gra type="gra" index="5" head="1" relation="OBJ"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="6" head="1" relation="PUNCT"/></mor></t>
+    <media
+      start="51.928"
+      end="52.795"
+      unit="s"
+    />
+  </u>
+  <u who="MOT" uID="u14">
+    <w>say<mor type="mor"><mw><pos><c>co</c></pos><stem>say</stem></mw><gra type="gra" index="1" head="2" relation="COM"/></mor></w>
+    <pause symbolic-length="simple"/>
+    <g><w type="filler">um</w><k type="retracing"/></g>
+    <w>say<mor type="mor"><mw><pos><c>co</c></pos><stem>say</stem></mw><gra type="gra" index="2" head="0" relation="INCROOT"/></mor></w>
+    <t type="quotation next line"><mor type="mor"><mt type="quotation next line"/><gra type="gra" index="3" head="2" relation="PUNCT"/></mor></t>
+    <media
+      start="52.795"
+      end="54.980"
+      unit="s"
+    />
+  </u>
+  <u who="MOT" uID="u15">
+    <linker type="quoted utterance next"/>
+    <w>wastebasket<mor type="mor"><mwc><pos><c>n</c></pos><mw><pos><c>n</c></pos><stem>waste</stem></mw><mw><pos><c>n</c></pos><stem>basket</stem></mw></mwc><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media
+      start="54.980"
+      end="56.397"
+      unit="s"
+    />
+  </u>
+  <u who="CHI" uID="u16">
+    <w>wastebasket<mor type="mor"><mwc><pos><c>n</c></pos><mw><pos><c>n</c></pos><stem>waste</stem></mw><mw><pos><c>n</c></pos><stem>basket</stem></mw></mwc><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media
+      start="56.397"
+      end="57.682"
+      unit="s"
+    />
+    <a type="speech act">$EIMIT</a>
+  </u>
+  <u who="MOT" uID="u17">
+    <linker type="quoted utterance next"/>
+    <w>wastebasket<mor type="mor"><mwc><pos><c>n</c></pos><mw><pos><c>n</c></pos><stem>waste</stem></mw><mw><pos><c>n</c></pos><stem>basket</stem></mw></mwc><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media
+      start="57.682"
+      end="58.565"
+      unit="s"
+    />
+  </u>
+  <u who="CHI" uID="u18">
+    <w>wastebasket<mor type="mor"><mwc><pos><c>n</c></pos><mw><pos><c>n</c></pos><stem>waste</stem></mw><mw><pos><c>n</c></pos><stem>basket</stem></mw></mwc><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media
+      start="58.565"
+      end="60.201"
+      unit="s"
+    />
+    <a type="speech act">$EIMIT</a>
+  </u>
+  <u who="MOT" uID="u19">
+    <linker type="quoted utterance next"/>
+    <w>wastebasket<mor type="mor"><mwc><pos><c>n</c></pos><mw><pos><c>n</c></pos><stem>waste</stem></mw><mw><pos><c>n</c></pos><stem>basket</stem></mw></mwc><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media
+      start="60.201"
+      end="61.051"
+      unit="s"
+    />
+  </u>
+  <u who="MOT" uID="u20">
+    <linker type="quoted utterance next"/>
+    <w>Gorden<mor type="mor"><mw><pos><c>n</c><s>prop</s></pos><stem>Gorden</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media
+      start="61.051"
+      end="64.919"
+      unit="s"
+    />
+    <a type="situation">NAO picking up microphone</a>
+  </u>
+  <u who="MOT" uID="u21">
+    <w untranscribed="unintelligible">xxx</w>
+    <w>put<mor type="mor"><mw><pos><c>v</c></pos><stem>put</stem><mk type="sfxf">ZERO</mk></mw><gra type="gra" index="1" head="0" relation="ROOT"/></mor></w>
+    <w>it<mor type="mor"><mw><pos><c>pro</c><s>per</s></pos><stem>it</stem></mw><gra type="gra" index="2" head="1" relation="OBJ"/></mor></w>
+    <w>down<mor type="mor"><mw><pos><c>adv</c></pos><stem>down</stem></mw><gra type="gra" index="3" head="1" relation="JCT"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="4" head="1" relation="PUNCT"/></mor></t>
+    <media
+      start="74.919"
+      end="78.471"
+      unit="s"
+    />
+  </u>
+  <u who="CHI" uID="u22">
+    <g><w formType="babbling">do</w><k type="retracing"/></g>
+    <w formType="babbling">do<mor type="mor"><mw><pos><c>bab</c></pos><stem>do</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media
+      start="78.471"
+      end="84.458"
+      unit="s"
+    />
+  </u>
+  <u who="MOT" uID="u23">
+    <w formType="babbling">do<mor type="mor"><mw><pos><c>bab</c></pos><stem>do</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w>
+    <w formType="babbling">do<mor type="mor"><mw><pos><c>bab</c></pos><stem>do</stem></mw><gra type="gra" index="2" head="1" relation="ENUM"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="3" head="1" relation="PUNCT"/></mor></t>
+    <media
+      start="84.458"
+      end="85.441"
+      unit="s"
+    />
+  </u>
+  <u who="CHI" uID="u24">
+    <g><w formType="babbling">do</w>
+    <w formType="babbling">do</w><k type="retracing"/></g>
+    <w formType="babbling">do<mor type="mor"><mw><pos><c>bab</c></pos><stem>do</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media
+      start="85.441"
+      end="87.393"
+      unit="s"
+    />
+  </u>
+  <u who="MOT" uID="u25">
+    <w formType="babbling">do<mor type="mor"><mw><pos><c>bab</c></pos><stem>do</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w>
+    <w formType="babbling">do<mor type="mor"><mw><pos><c>bab</c></pos><stem>do</stem></mw><gra type="gra" index="2" head="1" relation="CONJ"/></mor></w>
+    <w formType="babbling">do<mor type="mor"><mw><pos><c>bab</c></pos><stem>do</stem></mw><gra type="gra" index="3" head="2" relation="COORD"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="4" head="1" relation="PUNCT"/></mor></t>
+    <media
+      start="87.393"
+      end="88.943"
+      unit="s"
+    />
+  </u>
+  <u who="CHI" uID="u26">
+    <g><w formType="babbling">do</w>
+    <w formType="babbling">do</w><k type="retracing"/></g>
+    <w formType="babbling">do<mor type="mor"><mw><pos><c>bab</c></pos><stem>do</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media
+      start="88.943"
+      end="92.881"
+      unit="s"
+    />
+  </u>
+  <u who="MOT" uID="u27">
+    <w untranscribed="unintelligible">xxx</w>
+    <w>let<mor type="mor"><mw><pos><c>v</c></pos><stem>let</stem><mk type="sfxf">ZERO</mk></mw><gra type="gra" index="1" head="0" relation="ROOT"/></mor></w>
+    <w>go<mor type="mor"><mw><pos><c>v</c></pos><stem>go</stem></mw><gra type="gra" index="2" head="1" relation="COMP"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="3" head="1" relation="PUNCT"/></mor></t>
+    <media
+      start="92.881"
+      end="94.231"
+      unit="s"
+    />
+  </u>
+  <u who="CHI" uID="u28">
+    <w untranscribed="unintelligible">xxx</w>
+    <t type="p"></t>
+    <media
+      start="94.231"
+      end="97.349"
+      unit="s"
+    />
+    <a type="actions">&lt;bef&gt; NAO is playing with microphone</a>
+  </u>
+  <u who="MOT" uID="u29">
+    <w untranscribed="unintelligible">xxx</w>
+    <t type="p"></t>
+    <media
+      start="97.348"
+      end="100.300"
+      unit="s"
+    />
+  </u>
+  <u who="FAT" uID="u30">
+    <w>give<mor type="mor"><mw><pos><c>v</c></pos><stem>give</stem></mw><gra type="gra" index="1" head="0" relation="ROOT"/></mor></w>
+    <w>it<mor type="mor"><mw><pos><c>pro</c><s>per</s></pos><stem>it</stem></mw><gra type="gra" index="2" head="1" relation="OBJ"/></mor></w>
+    <w>to<mor type="mor"><mw><pos><c>prep</c></pos><stem>to</stem></mw><gra type="gra" index="3" head="1" relation="JCT"/></mor></w>
+    <w>Mommy<mor type="mor"><mw><pos><c>n</c><s>prop</s></pos><stem>Mommy</stem></mw><gra type="gra" index="4" head="5" relation="NAME"/></mor></w>
+    <pause symbolic-length="simple"/>
+    <w>Nomi<mor type="mor"><mw><pos><c>n</c><s>prop</s></pos><stem>Nomi</stem></mw><gra type="gra" index="5" head="3" relation="POBJ"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="6" head="1" relation="PUNCT"/></mor></t>
+    <media
+      start="100.300"
+      end="100.716"
+      unit="s"
+    />
+  </u>
+  <u who="FAT" uID="u31">
+    <w>let<mor type="mor"><mw><pos><c>v</c></pos><stem>let</stem><mk type="sfxf">ZERO</mk></mw><gra type="gra" index="1" head="0" relation="ROOT"/></mor></w>
+    <w>go<mor type="mor"><mw><pos><c>v</c></pos><stem>go</stem></mw><gra type="gra" index="2" head="1" relation="COMP"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="3" head="1" relation="PUNCT"/></mor></t>
+    <media
+      start="100.716"
+      end="101.733"
+      unit="s"
+    />
+  </u>
+  <u who="CHI" uID="u32">
+    <w type="filler">uh</w>
+    <t type="p"></t>
+    <media
+      start="101.733"
+      end="104.102"
+      unit="s"
+    />
+  </u>
+  <u who="MOT" uID="u33">
+    <w>let<mor type="mor"><mw><pos><c>v</c></pos><stem>let</stem><mk type="sfxf">ZERO</mk></mw><gra type="gra" index="1" head="0" relation="ROOT"/></mor></w>
+    <w>go<mor type="mor"><mw><pos><c>v</c></pos><stem>go</stem></mw><gra type="gra" index="2" head="1" relation="COMP"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="3" head="1" relation="PUNCT"/></mor></t>
+    <media
+      start="104.102"
+      end="104.435"
+      unit="s"
+    />
+  </u>
+  <u who="MOT" uID="u34">
+    <w>let<mor type="mor"><mw><pos><c>v</c></pos><stem>let</stem><mk type="sfxf">ZERO</mk></mw><gra type="gra" index="1" head="0" relation="ROOT"/></mor></w>
+    <w>go<mor type="mor"><mw><pos><c>v</c></pos><stem>go</stem></mw><gra type="gra" index="2" head="1" relation="COMP"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="3" head="1" relation="PUNCT"/></mor></t>
+    <media
+      start="104.435"
+      end="104.718"
+      unit="s"
+    />
+  </u>
+  <u who="FAT" uID="u35">
+    <w>let<mor type="mor"><mw><pos><c>v</c></pos><stem>let</stem><mk type="sfxf">ZERO</mk></mw><gra type="gra" index="1" head="0" relation="ROOT"/></mor></w>
+    <w>go<mor type="mor"><mw><pos><c>v</c></pos><stem>go</stem></mw><gra type="gra" index="2" head="1" relation="COMP"/></mor></w>
+    <pause symbolic-length="simple"/>
+    <w>Nomi<mor type="mor"><mw><pos><c>n</c><s>prop</s></pos><stem>Nomi</stem></mw><gra type="gra" index="3" head="2" relation="OBJ"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="4" head="1" relation="PUNCT"/></mor></t>
+    <media
+      start="104.718"
+      end="105.452"
+      unit="s"
+    />
+  </u>
+  <u who="CHI" uID="u36">
+    <w type="filler">uh</w>
+    <w>wan<shortening>t</shortening><mor type="mor"><mw><pos><c>v</c></pos><stem>want</stem></mw><gra type="gra" index="1" head="0" relation="ROOT"/></mor></w>
+    <w>Georgie<mor type="mor"><mw><pos><c>n</c><s>prop</s></pos><stem>Georgie</stem></mw><gra type="gra" index="2" head="1" relation="OBJ"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="3" head="1" relation="PUNCT"/></mor></t>
+    <media
+      start="105.452"
+      end="108.404"
+      unit="s"
+    />
+    <a type="paralinguistics">&lt;aft&gt; cries</a>
+  </u>
+  <comment type="Tape Location">350</comment>
+</CHAT>
